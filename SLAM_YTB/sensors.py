@@ -2,6 +2,7 @@ import pygame
 import math
 import numpy as np
 
+#Adiciona valores de ruídos para simular a realidade 
 def uncertainty_add(distance, angle, sigma):
     mean = np.array([distance, angle])
     covariance = np.diag(sigma ** 2)
@@ -10,6 +11,7 @@ def uncertainty_add(distance, angle, sigma):
     angle = max(angle, 0)
     return [distance, angle]
 
+#Classe que define o sensor laser utilizado 
 class LaserSensor:
 
     def __init__(self, Range, map, uncertainty):
@@ -25,6 +27,7 @@ class LaserSensor:
         py = (obstaclePosition[1] - self.position[1])**2
         return math.sqrt(px+py)
     
+    #Detecção dos obstáculos encontrados
     def sense_obstacles(self):
         data = []
         x1, y1 = self.position[0], self.position[1]
