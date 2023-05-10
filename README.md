@@ -24,4 +24,10 @@ Membros que colaboraram/colaboram com o projeto: <br><br>
 **Coordenação 👨‍🏫**:
 - Prof. Leonardo Baruffaldi --> Coordenador
 - Prof. Dr. Luiz Cláudio Marangoni de Oliveira; Prof. Dr. Augusto Emmel Selke --> Coorientadores
-  </em>
+</em>
+<br><br>
+
+# Programação (Use to code)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
