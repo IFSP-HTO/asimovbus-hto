@@ -27,7 +27,7 @@ Membros que colaboraram/colaboram com o projeto <br><br>
 </em>
 <br><br>
 
-# Programação (Use to code)
+# Programação (Use to code) <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
