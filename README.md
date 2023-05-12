@@ -14,11 +14,11 @@
 
 # Membros <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width="50"> 
 <em>
-Membros que colaboraram/colaboram com o projeto: <br><br>
+Membros que colaboraram/colaboram com o projeto <br><br>
 
 **Estudantes 📚**:
 - Isadora Caroline Deodato --> curso tècnico em mecânica integrado ao ensino médio
-- Guilherme Valério, engenharia -->de controle e automação
+- Guilherme Valério --> engenharia de controle e automação
 - Gustavo Araújo --> engenharia de controle e automação
 
 **Coordenação 👨‍🏫**:
